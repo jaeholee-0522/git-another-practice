@@ -1,12 +1,8 @@
 team : Tiger
 
-<<<<<<< HEAD
 manager : Kenneth
-=======
-manager : John
->>>>>>> conflict-1
 
-coach : Grace
+coach : Ruth
 
 member :
  - Linda
